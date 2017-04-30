@@ -1,0 +1,3 @@
+[submodule "Frameworks/External/GcdTimer"]
+	path = Frameworks/External/GcdTimer
+	url = https://github.com/kingnight/GcdTimer.git
